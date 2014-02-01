@@ -1,0 +1,24 @@
+{
+	"version": "1.0",
+	"name": "TTS Translator",
+	"description": "With the TTS (Text To Speech) Translator you type a phrase in one language, it translates and speaks to you.",
+	"developer": {
+		"name": "Adriel Café",
+		"url": "http://adrielcafe.com"
+	},
+	"launch_path": "/apps/tts-translator/index.html",,
+	"appcache_path": "/apps/tts-translator/offline.appcache",
+	"installs_allowed_from": ["*"],
+	"default_locale": "en",
+	"icons": {
+		"32": "/apps/tts-translator/images/icon-32.png",
+		"64": "/apps/tts-translator/images/icon-64.png",
+		"128": "/apps/tts-translator/images/icon-128.png",
+		"256": "/apps/tts-translator/images/icon-256.png"
+	},
+	"permissions": {
+  		"audio-channel-content":{
+	    	"description":"Use the audio channel for play the translations"
+	  	}
+	}
+}

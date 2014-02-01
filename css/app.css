@@ -1,0 +1,30 @@
+.content {
+	margin-top: 20px;
+}
+
+form label {
+	display: block;
+}
+
+form .form-grid {
+	width: 100%;
+	margin: 10px 0;
+}
+
+form .form-grid div {
+	width: 49%;
+	display: inline-block;
+}
+
+form .form-grid div select {
+	width: 100%;
+}
+
+#dlg-about dl dt {
+	margin-right: 15px;
+}
+
+#translate-form button.icon-sound-max::before {
+	left: 5px;
+	color: #555;
+}
