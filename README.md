@@ -3,6 +3,14 @@ TTS (Text To Speech) Translator
 
 With the TTS (Text To Speech) Translator you type a phrase in one language, it translates and **speaks** to you.
 
+**Supported languages**
++ English
++ French
++ German
++ Italian
++ Portuguese
++ Spanish
+
 ### DEMO
 http://adrielcafe.com/apps/tts-translator
 
