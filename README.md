@@ -1,10 +1,10 @@
 TTS (Text To Speech) Translator
-===============================
+-------------------------------
 
-# About
+### About
 With the TTS (Text To Speech) Translator you type a phrase in one language, it translates and **speaks** to you.
 
-## IMPORTANT
+### IMPORTANT
 This app uses the VoiceRSS API for converting text to voice. This API has a limitation of daily use in its free version.
 
 More info: http://voicerss.org
