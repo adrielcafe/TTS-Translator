@@ -13,6 +13,8 @@ With the TTS Translator you type a phrase in one language, it translates and **s
 + Spanish
 
 ### DEMO
+This demonstration is best view in Firefox browser or Firefox OS
+
 http://adrielcafe.com/apps/tts-translator
 
 ### IMPORTANT
