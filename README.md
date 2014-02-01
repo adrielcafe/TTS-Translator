@@ -1,5 +1,6 @@
 TTS (Text To Speech) Translator
 -------------------------------
+This app was made for Firefox OS.
 
 With the TTS (Text To Speech) Translator you type a phrase in one language, it translates and **speaks** to you.
 
